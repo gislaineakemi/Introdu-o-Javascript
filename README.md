@@ -1,1 +1,5 @@
-# Introdu-o-Javascript
+# Introdução-Javascript
+
+Equipe: Gislaine
+
+Prof. Gislaine
